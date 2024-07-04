@@ -6,7 +6,7 @@ This repository contains solutions to a Python developer coding test, covering v
 
 ### Problem 1: Reverse a String
 
-**Description:** Write a function that reverses a given string.
+**Description:** Function that reverses a given string.
 
 **File:** `problemOne.py`
 
@@ -17,7 +17,7 @@ This repository contains solutions to a Python developer coding test, covering v
 
 ### Problem 2: List Comprehensions
 
-**Description:** Write a function that generates squares of even numbers from a list of integers.
+**Description:** Function that generates squares of even numbers from a list of integers.
 
 **File:** `problemTwo.py`
 
@@ -28,7 +28,7 @@ This repository contains solutions to a Python developer coding test, covering v
 
 ### Problem 3: File I/O
 
-**Description:** Write a function that reads a text file and counts the number of words in it.
+**Description:** Function that reads a text file and counts the number of words in it.
 
 **File:** `problemThree.py`
 
@@ -40,7 +40,7 @@ This repository contains solutions to a Python developer coding test, covering v
 
 ### Problem 4: Dictionary Manipulation
 
-**Description:** Write a function that sorts a dictionary by its values in ascending order.
+**Description:** Function that sorts a dictionary by its values in ascending order.
 
 **File:** `problemFour.py`
 
@@ -51,7 +51,7 @@ This repository contains solutions to a Python developer coding test, covering v
 
 ### Problem 5: Bank Account Management
 
-**Description:** Implement functions to manage bank accounts using file I/O.
+**Description:** Functions to manage bank accounts using file I/O.
 
 **File:** `problemFive.py`
 
